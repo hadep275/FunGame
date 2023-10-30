@@ -20,7 +20,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ## Deployed Link
 
-You can play the game live on GitHub Pages: [Brick Breaker Game](https://your-username.github.io/brick-breaker-game)
+You can play the game live on GitHub Pages: [Brick Breaker Game](https://hadep275.github.io/FunGame/)
 
 ## Technologies Used
 
