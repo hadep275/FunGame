@@ -30,7 +30,7 @@ You can play the game live on GitHub Pages: [Brick Breaker Game](https://your-us
 
 ## Author
 
-- [Your Name](https://github.com/your-username)
+- [hadep275](https://github.com/hadep275)
 
 ## License
 
