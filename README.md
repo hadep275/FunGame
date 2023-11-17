@@ -22,6 +22,9 @@ These instructions will get you a copy of the project up and running on your loc
 
 You can play the game live on GitHub Pages: [Brick Breaker Game](https://hadep275.github.io/FunGame/)
 
+![screencapture-hadep275-github-io-FunGame-2023-11-17-15_12_06](https://github.com/hadep275/FunGame/assets/65734173/e7432917-b12a-4fb0-a036-6739554a34ec)
+
+
 ## Technologies Used
 
 - HTML5
